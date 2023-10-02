@@ -40,9 +40,23 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
   - chiudo lo zaino
 
 - Scambio
-  - prendi lo zaino
+  - metto l'album nello zaino
+  - prendo lo zaino
   - incontrati con gli amici il sabato
-  -
+
+- Confronto carte con gli amici
+  - prendo il mazzo dei doppioni
+  - prendo l'album
+  - confronto le carte dei mazzi doppioni degli amici con le mie
+    - SE ho carte diverse rispetto agli amici
+      - prendo l'album
+      - controllo di non avere già la carta
+        - SE io e l'amico non abbiamo la carta
+          - ci scambiamo la carta
+  - continuo a fare scambi fino a quando
+    - non ho più carte da scambiare
+    - ho terminato tutte le carte doppione 
+ 
 
 
 
